@@ -6,17 +6,6 @@ I’m Yugal Mahajan, a 3rd-year Information Technology student at Ramrao Adik In
   
 Currently, I’m working on Java Full Stack development (Spring Boot) along with AI-based projects and automation systems.
 
-## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/Yugal006">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yugal006&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Yugal006's GitHub Stats" />
-  </a>
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Yugal006&theme=dark&radius=10" alt="Yugal006's Activity Graph" />
-</p>
-
-
 ## 🛠️ Languages & Tools
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -74,6 +63,16 @@ Currently, I’m working on Java Full Stack development (Spring Boot) along with
 </p>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/yugal006?ext=heatmap"/>
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/Yugal006">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yugal006&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Yugal006's GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Yugal006&theme=dark&radius=10" alt="Yugal006's Activity Graph" />
 </p>
 
 ## 🔗 Connect with Me
