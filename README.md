@@ -1,5 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Yugal%20Mahajan&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Enthusiast%20%E2%80%A2%20Full%20Stack%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
+## About
+
+I’m Yugal Mahajan, a 3rd-year Information Technology student at Ramrao Adik Institute of Technology. I’m passionate about Artificial Intelligence and Full Stack Development, and I enjoy building clean, scalable, and user-focused applications.  
+  
+Currently, I’m working on Java Full Stack development (Spring Boot) along with AI-based projects and automation systems.
+
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/Yugal006">
