@@ -42,7 +42,6 @@ text, tspan {white-space: pre;}
 <tspan x="-20" y="470">       :::-:-:+%%###%%*::::::.:::::::::::....</tspan>
 </text>
 <text x="450" y="30" fill="#c9d1d9">
-
 <tspan x="450" y="30">yloryth</tspan>
 
 <tspan x="450" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Arch Linux, Windows 11, Android</tspan>
