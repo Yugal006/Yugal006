@@ -308,11 +308,24 @@ def force_close_file(data, cache_comment):
 
 
 def stars_counter(data):
-    """
-    Count total stars in repositories owned by me
-    """
     total_stars = 0
-    for node in data: total_stars += node['node']['stargazers']['totalCount']
+
+    for node in data:
+        if node is None:
+            continue
+
+        repo = node.get("node")
+
+        if repo is None:
+            continue
+
+        stars = repo.get("stargazers")
+
+        if stars is None:
+            continue
+
+        total_stars += stars.get("totalCount", 0)
+
     return total_stars
 
 
