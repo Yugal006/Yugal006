@@ -6,6 +6,7 @@ I’m Yugal Mahajan, a 3rd-year Information Technology student at Ramrao Adik In
   
 Currently, I’m working on Java Full Stack development (Spring Boot) along with AI-based projects and automation systems.
 
+<<<<<<< HEAD
 <a href="https://github.com/Yugal006/Yugal006">
   <picture>
     <source
@@ -16,6 +17,8 @@ Currently, I’m working on Java Full Stack development (Spring Boot) along with
   </picture>
 </a>
 
+=======
+>>>>>>> fd162433c34ad3005705dd88a84b3f78ae186e1e
 ## 🛠️ Languages & Tools
 <h3 align="center">Programming Languages</h3>
 <p align="center">
