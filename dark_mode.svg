@@ -46,7 +46,7 @@ text, tspan {white-space: pre;}
 
 <tspan x="450" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Arch Linux, Windows 11, Android</tspan>
 
-<tspan x="450" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .................... </tspan><tspan class="value" id="age_data">19 years, 9 months, 30 days</tspan>
+<tspan x="450" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .................... </tspan><tspan class="value" id="age_data">19 years, 10 months, 0 days</tspan>
 
 <tspan x="450" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Ramrao Adik Institute of Technology</tspan>
 
